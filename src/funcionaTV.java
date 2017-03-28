@@ -18,7 +18,7 @@ public class funcionaTV {
 		System.out.println("Canal: " + TVdoQuarto.getCanal());
 		System.out.println("Modelo: " + TVdoQuarto.getModelo());
 		TVdoQuarto.setModelo("Philco");
-		System.out.println("Modelo foi trocado para: " + TVdoQuarto.getModelo());
+		System.out.println("Modelo alterado para: " + TVdoQuarto.getModelo());
 		System.out.println("Ligada: " + TVdoQuarto.isLigada());
 		System.out.println("Volume: " + TVdoQuarto.getVolume());
 
